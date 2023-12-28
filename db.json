@@ -14,5 +14,15 @@
         "address": "london",
         "id": 2
       }
+    ],
+    "books": [
+      {
+        "title": "proper name",
+        "id": 2
+      },
+      {
+        "title": "ssecond book",
+        "id": 3
+      }
     ]
   }
