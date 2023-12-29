@@ -1,1 +1,1 @@
-This repo basically contains the data, for which i have created an external server using render.com, which helps me to fetch data in my mulitple applications.
+This repository hosts essential data crucial for my various applications. To efficiently manage this data, I've set up an external server using render.com. This server allows seamless retrieval of this data across multiple applications, enhancing their functionality by ensuring consistent and reliable access
